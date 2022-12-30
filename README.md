@@ -1,4 +1,4 @@
-# News_Feed_Demo
+# News Feed Demo
 
 Retrofit with MVVM
 TabLayout
